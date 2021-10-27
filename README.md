@@ -1,4 +1,4 @@
-Different Solutins for Stale closures when using React hooks
+Different Solutions for Stale closures when using React hooks
 
 Solutions
 1. usEffect dependency Array

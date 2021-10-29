@@ -8,7 +8,7 @@ export default function App() {
   useEffect(() => {
     const countHeader = titleRef.current;
     const clickHandler = () => {
-      if (countRef.current > 0 > 0) {
+      if (countRef.current > 0) {
         setCount(100);
       } else {
         setCount(-100);
